@@ -20,6 +20,10 @@ type: "featured"
 
 WhatsApp ändert seine Nutzungsbedingungen am 8. Februar. Unter anderem muss der Nutzer dem Datenaustausch mit Facebook zustimmen. Für viele heißt es jetzt, einen neuen Messenger zu finden. Welche Alternativen es gibt, erfährst du in diesem Artikel.
 
+> **Update 16.01.2020:**
+> Facebook hat auf die starke Kritik seitens der Nutzer reagiert und die Änderungen auf den 15. Mai verschoben. Wir empfehlen trotzdem einen Wechsel auf einen sicheren Messenger.
+> Quelle: https://www.tagesschau.de/ausland/whatsapp-datenschutz-verschiebung-101.html
+
 ## Was sind die Änderungen der Nutzungsbedingungen?  
 
 Mit dem Akzeptieren der neuen Nutzungsbedingungen akzeptierst du, bestimmte Daten mit Dritten ausgetauscht werden. Dazu gehören beispielsweise deine Kontakte, Profilbilder und wie du die App nutzt. Diese sollen angeblich zur »Verbesserung der Dienste« beitragen.
