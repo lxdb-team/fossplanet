@@ -1,0 +1,143 @@
+######################## default configuration ####################
+baseURL = "https://www.foss-planet.de"
+languageCode = "de-de"
+title = "FOSS Planet | Die freie Quelle der News über freie Software."
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+  [[params.plugins.css]]
+  URL = "plugins/fontawesome/css/all.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+
+############################## navigation ###############################
+[menu]
+
+  # main menu
+  [[menu.main]]
+  name = "Über FOSS Planet"
+  URL = "about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Beiträge"
+  URL = "blog"
+  weight = 2
+
+  [[menu.main]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 3
+
+  # footer menu
+  [[menu.footer]]
+  name = "Über FOSS Planet"
+  URL = "about"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Beiträge"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Die freie Quelle der News über freie Software"
+author = "LXDB Team"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+mobile = "+491708909754"
+email = "service@foss-planet.de"
+# location = "Dhaka, Bangladedsh"
+# copyright
+copyright = "| Copyright &copy; 2021 [LXDB Team](https://www.lxdb.de) |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = false
+title = "Unseren Newsletter abbonieren"
+content = "Du willst täglich neue News rund um OpenSource-Software lesen? - Abboniere unseren Newsletter"
+
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+
+############################# social site ########################
+[[params.social]]
+title = "Twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/fossplanet"
+
+[[params.social]]
+title = "GitHub"
+icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/lxdb-team/fossplanet"
+
+[[params.social]]
+title = "Discord"
+icon = "fab fa-discord"
+link = "https://discord.gg/EW87g3qdgn"
+
+[[params.social]]
+title = "Telegram"
+icon = "fab fa-telegram"
+link = "https://t.me/fossplanet"
