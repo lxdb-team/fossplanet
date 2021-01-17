@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.foss-planet.de"
 languageCode = "de-de"
-title = "FOSS Planet | Die freie Quelle der News über freie Software."
+title = "FOSS Planet"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
