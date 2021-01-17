@@ -4,17 +4,37 @@ backend:
   branch: master
   site_domain: www.foss-planet.de
 
-media_folder: "/static/images/post"
-public_folder: "/images/post/"
+media_folder: "/static/images/"
+public_folder: "/images/"
+
+site_url: https://www.foss-planet.de
+display_url: https://www.foss-planet.de
+
+logo_url: /images/logo.png
+
+locale: "de"
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
     label: "Blog"
     folder: "content/blog/"
+    media_folder: '/static/images/post'
+    public_folder: '/images/post/'
     create: true
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: false, required: false}
+      - {label: "Bild", name: "image", widget: "image", default: "/media/image.png"}
+      - {label: "Metabeschreibung", name: "description", widget: "text", default: "", required: false}
+      - {label: "Kategorien", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Typ"
+        name: "type"
+        widget: "select"
+        options:
+          - { label: "Hervorgehoben", value: "featured" }
+          - { label: "Artikel", value: "post" }
       - {label: "Body", name: "body", widget: "markdown"}
