@@ -19,6 +19,7 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "content/blog/"
+    filter: {field: "post", value: "true"}
     media_folder: '/static/images/post'
     public_folder: '/images/post/'
     create: true
