@@ -10,7 +10,7 @@ public_folder: "/images/"
 site_url: https://www.foss-planet.de
 display_url: https://www.foss-planet.de
 
-logo_url: /images/logo.png
+logo_url: /images/logo.svg
 
 locale: "de"
 publish_mode: editorial_workflow
