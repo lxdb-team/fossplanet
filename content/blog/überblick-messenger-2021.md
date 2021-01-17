@@ -13,7 +13,7 @@ tags:
   - "matrix"
   - "element"
   - "session"
-image: "blog/überblick-messenger-2021/überblick-messenger.jpg"
+image: "/images/post/überblick-messenger.jpg"
 draft: false
 type: "featured"
 ---
@@ -28,7 +28,7 @@ WhatsApp ändert seine Nutzungsbedingungen am 8. Februar. Unter anderem muss der
 
 Mit dem Akzeptieren der neuen Nutzungsbedingungen akzeptierst du, bestimmte Daten mit Dritten ausgetauscht werden. Dazu gehören beispielsweise deine Kontakte, Profilbilder und wie du die App nutzt. Diese sollen angeblich zur »Verbesserung der Dienste« beitragen.
 
-<img src="screenshot_whatsapp_nutzungsbedingungen_popup.jpg" width="512px" />
+<img src="/images/post/screenshot_whatsapp_nutzungsbedingungen_popup.jpg" width="512px" />
 
 Wenn der Nutzer diesen Nutzungsbedingungen nicht zustimmt, wird das Benutzerkonto nach 120 Tagen automatisch entfernt.
 Viele sehen diese Änderungen kritisch, und das aus guten Grund, und sehen sich jetzt nach Alternativen um.
@@ -48,7 +48,7 @@ Mit diesem Artikel wollen wir, wie schon erwähnt, eine Übersicht bieten, welch
 ### Signal
 [Offizielle Website](https://signal.org)
 
-[<img src="signal_logo.png" width="196px" />](https://signal.org)
+[<img src="/images/post/signal_logo.png" width="196px" />](https://signal.org)
 
 Signal ist ein sehr beliebter Instant-Messenger, der im Gegensatz zu WhatsApp auf Sicherheit & Datenschutz achtet. Signal funktioniert ähnlich wie WhatsApp,
 und bietet fast die selben Funktionen.
@@ -69,7 +69,7 @@ Signal ist an deine Telefonnummer gebunden.
 ### Telegram
 [Offizielle Website](https://telegram.org)
 
-[<img src="telegram_logo.png" width="196px" />](https://telegram.org)
+[<img src="/images/post/telegram_logo.png" width="196px" />](https://telegram.org)
 
 Telegram ist ein populärer, aus Russland stammender Messenger, der auf Benutzerfreundlichkeit setzt. Die Vielfalt von Telegram ist sehr groß: Es gibt sehr viele Anpassungsmöglichkeiten, was das Design betrifft. Des weiteren gibt es unterschiedliche Client-Anwendungen von Drittanbietern, die als Ersatz für die originale App verwendet werden können; ein Beispiel dazu ist der [Plus Messenger](https://plusmessenger.org/).
 
@@ -96,7 +96,7 @@ Besonders für Gruppenchats ist Telegram durch weitragende Moderationsmöglichke
 ### Element
 [Offizielle Website](https://element.io)
 
-[![Das Logo von Element](element_logo.png)](https://element.io)
+[![Das Logo von Element](/images/post/element_logo.png)](https://element.io)
 
 Element ist ein Messenger, der auf dem freien Matrix-Protokoll basiert. Durch dessen überragende Sicherheit wird Element z.B. von der Französischen Regierung oder von der Bundeswehr zur internen Kommunikation eingesetzt.
 Element / Matrix bietet unendliche Konfigurationsmöglichkeiten, sodass man seine eigene Instanz auf seinem Server bereitstellen kann. Element wird von vielen Experten empfohlen, wegen den Einzigartigen Sicherheitsfeatures.
@@ -120,7 +120,7 @@ Element / Matrix bietet unendliche Konfigurationsmöglichkeiten, sodass man sein
 ### Session
 [Offizielle Website](https://getsession.org)
 
-[![Das Logo von Session](session_logo.png)](https://getsession.org)
+[![Das Logo von Session](/images/post/session_logo.png)](https://getsession.org)
 
 Session ist ein relativ neuer Messenger, der mit dem dezentralen Tor-Netzwerk arbeitet, und somit sehr sicher ist, da er nicht auf einer zentralen Serverstruktur basiert.
 Die stets Ende-zu-Ende verschlüsselten Nachrichten werden über mehrere Server in unterschiedlichen Ländern geleitet.
@@ -128,7 +128,7 @@ Dadurch können Metadaten wie die IP-Adresse, Gerätespezifikationen, Standort u
 Session setzt statt einem Benutzernamen, den man sich selber aussuchen kann, eine sogenannte **Session ID** ein, welche aus einer Folge an Zahlen und Buchstaben besteht und nicht vom Nutzer geändert werden kann.
 
 
-![Beispiel einer Session ID](session-id_beispiel.jpg)
+![Beispiel einer Session ID](/images/post/session-id_beispiel.jpg)
 
 Um eine Person zu den Session-Kontakten hinzuzufügen, kopiert man einfach diese ID und fügt sie in Session ein.
 
