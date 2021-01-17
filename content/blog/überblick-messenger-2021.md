@@ -16,6 +16,7 @@ tags:
 image: "/images/post/überblick-messenger.jpg"
 draft: false
 type: "featured"
+post: true
 ---
 
 WhatsApp ändert seine Nutzungsbedingungen am 8. Februar. Unter anderem muss der Nutzer dem Datenaustausch mit Facebook zustimmen. Für viele heißt es jetzt, einen neuen Messenger zu finden. Welche Alternativen es gibt, erfährst du in diesem Artikel.

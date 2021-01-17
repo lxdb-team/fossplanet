@@ -37,4 +37,26 @@ collections:
         options:
           - { label: "Hervorgehoben", value: "featured" }
           - { label: "Artikel", value: "post" }
+      - {label: "Type", name: "post", widget: "hidden", default: "true"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Seiten"
+    files:
+      - name: "blog-index"
+        label: "Blog"
+        file: "content/blog/_index.md"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Datum", name: "date", widget: "datetime"}
+          - {label: "Entwurf", name: "draft", widget: "boolean", default: false, required: false}
+          - {label: "Metabeschreibung", name: "description", widget: "text", required: false}
+      - name: "about-index"
+        label: "Über FOSS Planet"
+        file: "content/about/_index.md"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Entwurf", name: "draft", widget: "boolean", default: "false", required: false}
+          - {label: "Bild", name: "image", widget: "image", default: "/media/image.png", required: false}
+          - {label: "Metabeschreibung", name: "description", widget: "text", required: false}
+          - {label: "Type", name: "type", widget: "hidden", default: "about"}
+          - {label: "Text", name: "body", widget: "markdown"}
