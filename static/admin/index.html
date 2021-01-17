@@ -31,10 +31,13 @@
       var entry = this.props.entry;
       var image = entry.getIn(['data', 'image']);
       var bg = this.props.getAsset(image);
-      return h('div', {"className": "col-lg-8 mx-auto"},
-        h('h2', {}, entry.getIn(['data', 'title'])),
-        h('img', {"className": "img-fluid w-100 mb-4", src: bg.toString()}),
-        h('div', {"className": "content mb-5"}, this.props.widgetFor('body'))
+      return h('section', {"className": "section-sm"},
+      h('div', {"className": "container"},
+        h('div', {"className": "row"},
+          h('div', {"className": "col-lg-8 mx-auto"},
+            h('h2', {}, entry.getIn(['data', 'title'])),
+            h('img', {"className": "img-fluid w-100 mb-4", src: bg.toString()}),
+            h('div', {"className": "content mb-5"}, this.props.widgetFor('body'))))
       );
     }
   });
