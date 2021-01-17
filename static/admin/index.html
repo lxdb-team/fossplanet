@@ -20,7 +20,21 @@
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script>
   <script>
-  CMS.registerPreviewStyle("https://www.foss-planet.de/style.css");
+  CMS.registerPreviewStyle("https://www.foss-planet.de/scss/style.min.css");
+  var PostPreview = createClass({
+    render: function() {
+      var entry = this.props.entry;
+      var image = entry.getIn(['data', 'image']);
+      var bg = this.props.getAsset(image);
+      return h('div', {"className": "col-lg-8 mx-auto"},
+        h('h2', {}, entry.getIn(['data', 'title'])),
+        h('img', {"className": "img-fluid w-100 mb-4", src: bg.toString()}),
+        h('div', {"className": "content mb-5"}, this.props.widgetFor('body'))
+      );
+    }
+  });
+
+  CMS.registerPreviewTemplate("blog", PostPreview);
   </script>
 </body>
 </html>
