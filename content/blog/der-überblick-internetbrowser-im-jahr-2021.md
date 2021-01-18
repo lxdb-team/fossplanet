@@ -18,4 +18,5 @@ tags:
 type: post
 post: "true"
 ---
-..
+Es gibt wirklich sehr viele Internetbrowser? Bloß welchen Browser sollte man am besten wählen?
+In diesem Artikel erfährst du, welcher Browser in den Kriterien Privatsphäre und Schnelligkeit am besten abschneidet.
