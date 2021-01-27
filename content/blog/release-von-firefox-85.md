@@ -42,3 +42,21 @@ Da jede TLD (Top Level Domain) nun einen eigenen Cache besitzt, können die Akti
 ### Verbesserter Lesezeichen-Mechanismus
 
 Das Vorgehen beim Speichern von Lesezeichen hat sich in der neuen Firefox-Version geändert.
+
+* Firefox merkt sich, wo deine Lesezeichen gespeichert werden sollen
+* DIe Lesezeichenleiste wird in neuen Tabs automatisch angezeigt
+* Der Zugriff auf alle Lesezeichen wird durch einen Toolbar-Ordner sichergestellt
+
+### Password-Verwaltung
+
+In der integrierten Passwort-Verwaltung Firefox Lockwise wurde ein Button zum Löschen von allen Zugangsdaten hinzugefügt.
+
+### Sicherheitsfixes
+
+In dieser Version wurden viele Sicherheitlücken behoben. Eine Liste ist [hier](https://www.mozilla.org/en-US/security/advisories/mfsa2021-03/) verfügbar.
+
+## Fazit
+
+In der ersten diesjährigen Firefox-Version gibt es keine sehr großen Veränderungen. Trotzdem sorgt Mozilla mit diesem Update für noch mehr Privatsphäre im Internet, weswegen es von jedem installiert werden sollte.
+
+Außerdem arbeitet Mozilla gerade mit Hochdruck an einem neuen Designkonzept, welches mit Firefox 89 voraussichtlich ende Mai eingeführt werden soll. Bis dahin werden wir wahrscheinlich keine großen Änderungen mehr in Firefox sehen. Ein Review der ersten Mockups gibt es bald in unserem Blog.
