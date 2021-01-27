@@ -3,6 +3,7 @@ title: Release von Firefox 85
 date: 2021-01-27T20:08:50.515Z
 draft: false
 image: /images/post/fx_design_blog_header_1400x770.jpg
+images: /images/post/fx_design_blog_header_1400x770.jpg
 description: Mit Firefox 85 stellt Mozilla das erste Firefox-Update im neuen
   Jahr vor. Die Änderungen in der neuen Version werden in diesem Artikel
   vorgestellt.
