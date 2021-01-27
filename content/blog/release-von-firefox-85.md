@@ -23,7 +23,7 @@ tags:
   - Lockwise
   - Proton
 type: post
-post: "true"
+post: true
 ---
 Das erste Release von Firefox im Jahr 2021 ist eher klein ausgefallen.
 
