@@ -12,6 +12,7 @@ categories:
   - Firefox
   - Mozilla
   - Browser
+  - Datenschutz
 tags:
   - Firefox
   - Mozilla
