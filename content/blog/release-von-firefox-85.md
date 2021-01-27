@@ -20,3 +20,11 @@ post: "true"
 Das erste Release von Firefox im Jahr 2021 ist eher klein ausgefallen.
 
 Trotz dessen führt Mozilla mit Firefox 85 mehrere wichtige Änderungen ein.
+
+## Änderungen in Firefox 85
+
+Die wahrscheinlich wichtigste Änderung ist das Entfernen von Adobe Flash.
+
+Letztes Jahr hat Adobe angekündigt, Flash ab 2021 vollständig einzustellen. Unter anderem enthält der Flash Player viele SIcherheitslücken, weswegen schon seit langem empfohlen wird, kein Flash mehr zu nutzen. In Firefox 85 wurde nun der Flash-Code endgültig aus Firefox entfernt.
+
+> Für Nutzer die dennoch Flash brauchen, wurde ein Flash-Emulator [Ruffle](https://ruffle.rs/) in der Programmiersprache Rust entwickelt. Doch mehr Informationen dazu wird es in einem separaten Artikel geben.
