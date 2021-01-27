@@ -98,6 +98,14 @@ email = "service@foss-planet.de"
 # location = "Dhaka, Bangladedsh"
 # copyright
 copyright = "| Copyright &copy; 2021 [LXDB Team](https://www.lxdb.de) |"
+mainSections = ["post", "featured"]
+featuredImageField = "image"
+rssFullCOntent = true
+[prams.defaultImage]
+  [params.defaultImage.opengraph]
+  enabled = true
+  local = false
+  src = ""
 
   # Preloader
   [params.preloader]

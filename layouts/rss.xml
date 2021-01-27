@@ -20,7 +20,7 @@
         {{- with .OutputFormats.Get "RSS" -}}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
         {{- end -}}
-        {{ range $filtered }}
+        {{ range $pages }}
         {{- $content := safeHTML (.Summary | html) -}}
         {{- if .Site.Params.rssFullContent -}}
             {{- $content = safeHTML (.Content | html) -}}
