@@ -6,6 +6,18 @@ image: /images/post/0_1612196857.png
 description: Mit GNOME 40 stellen die GNOME-Entwickler wie gewohnt wieder mal
   alles auf den Kopf. Welche änderungen die Venutzer zu erwarten haben, klären
   wir hier.
+categories:
+  - Linux
+  - GNOME
+  - DE
+tags:
+  - Linux
+  - GNOME
+  - DE
+  - G40
+  - GTK4
+  - Fedora33
+  - COPR
 type: post
 post: "true"
 ---
