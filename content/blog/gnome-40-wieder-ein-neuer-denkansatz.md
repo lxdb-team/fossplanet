@@ -2,7 +2,7 @@
 title: "GNOME 40: (Wieder) ein neuer Denkansatz"
 date: 2021-02-04T08:37:20.899Z
 draft: false
-image: /media/image.png
+image: /images/post/0_1612196857.png
 description: ""
 type: post
 post: "true"
