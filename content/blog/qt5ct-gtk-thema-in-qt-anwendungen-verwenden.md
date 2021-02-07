@@ -2,7 +2,7 @@
 title: "qt5ct: Gtk-Thema in Qt-Anwendungen verwenden"
 date: 2021-02-07T10:54:19.335Z
 draft: false
-image: /images/post/qt5ct.webp
+image: /images/post/qt5ct.png
 description: Wenn du Qt-Anwendungen unter Gtk-Oberflächen wie zum Beispiel Gnome
   oder Xfce installierst, passen diese nicht zum Design der Oberfläche und
   Gtk-Anwendungen. In diesem Artikel zeigen wir eine Lösung für das Problem.
