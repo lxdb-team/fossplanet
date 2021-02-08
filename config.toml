@@ -66,6 +66,11 @@ paginate = 6
   URL = "contact"
   weight = 3
 
+  [[menu.main]]
+  name = "Für FOSS Planet schreiben"
+  URL = "write-for-fp"
+  weight = 4
+
   # footer menu
   [[menu.footer]]
   name = "Über FOSS Planet"
@@ -81,6 +86,11 @@ paginate = 6
   name = "Kontakt"
   URL = "contact"
   weight = 3
+
+  [[menu.footer]]
+  name = "Für FOSS Planet schreiben"
+  URL = "write-for-fp"
+  weight = 4
 
 
 #################### default parameters ################################
