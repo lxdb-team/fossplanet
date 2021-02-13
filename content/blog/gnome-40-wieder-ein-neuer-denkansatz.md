@@ -19,7 +19,7 @@ tags:
   - Fedora33
   - COPR
 type: post
-post: "true"
+post: true
 ---
 Der Sprung auf die Version 40 ist längst nicht die einzige wichtige Änderung in  der nächsten GNOME Version. Unter anderem werden die Grundelemente derr Benutzeroberfläche grundlegend Verändert.  
 Doch zunächst erstmal zum Namen: ... 3.36, 3.38, 40 ? 
