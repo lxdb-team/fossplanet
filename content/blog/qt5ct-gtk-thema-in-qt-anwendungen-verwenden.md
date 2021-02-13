@@ -19,9 +19,9 @@ tags:
   - qt5ct
   - ""
 type: post
-post: "true"
+post: true
 ---
-Wenn du Qt-Anwendungen unter Gtk-Oberflächen wie zum Beispiel Gnome oder Xfce installierst, passen diese nicht zum Design der Oberfläche und Gtk-Anwendungen. 
+Wenn du Qt-Anwendungen unter Gtk-Oberflächen wie zum Beispiel Gnome oder Xfce installierst, passen diese nicht zum Design der Oberfläche und Gtk-Anwendungen.
 
 ![](/images/post/qt5ct_1.png)
 
