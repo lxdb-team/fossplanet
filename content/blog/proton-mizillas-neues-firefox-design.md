@@ -14,6 +14,6 @@ tags:
   - Design
   - Mozilla
 type: post
-post: "true"
+post: true
 ---
 MIt Firefox 57 wurde mit dem Umstieg auf die Quantum-Engine dem Browser bereits ein modernes Design verliehen. Dennoch fehlen manche Funktionen, die
