@@ -21,7 +21,7 @@ tags:
 type: post
 post: "true"
 ---
-Der Sprung auf die Version 40 ist längst nicht die einzige wichtige Änderung in der nächsten GNOM-Version. Unter anderem werden die Grundelemente der Benutzeroberfläche grundlegend verändert.
+Der Sprung auf die Version 40 ist längst nicht die einzige wichtige Änderung in der nächsten GNOME-Version. Unter anderem werden die Grundelemente der Benutzeroberfläche grundlegend verändert.
 
 Doch zunächst erstmal zum Namen 3.36, 3.38, 40?
 
@@ -33,7 +33,13 @@ Dies geschieht unter anderem, um die Versionierung von GNOME und GTK voneinander
 
 Dennoch wurden in GNOME 40 viele Änderungen an der Benutzeroberfläche vorgenommen, die wir anschließend näher erläutern, welche dem Versionssprung gerecht werden.
 
-### [](https://pads.eigenbaukombinat.de/g40-fp?both#Die-Änderungen-in-GNOME-40 "Die-Änderungen-in-GNOME-40")Die Änderungen in GNOME 40
+### Die Änderungen in GNOME 40
+
+Die mit GNOME 3 wurde 2011 ein neues Arbeitsflächenkonzept eingeführt. Trotz viel Kritik haben die Entwickler daran festgehalten.
+
+Dennoch versuchen sie kontinuierlich die Benutzererfahrung zu verbessern.
+
+So wurde letztes Jahr entschieden, das bisher vertikale Layout der Aktivitäten-Übersicht gegen ein horizontales Einzutauschen.
 
 Die zukünftigen Änderungen wurden in einem [Artikel](https://blogs.gnome.org/shell-dev/2020/12/18/gnome-shell-ux-plans-for-gnome-40/) am 18. Dezember 2020 im [GNOME Shell Entwicklungsblog](https://blogs.gnome.org/shell-dev/) zum ersten Mal vorgestellt.
 
@@ -55,16 +61,19 @@ Aktivitäten-Übersicht (40.beta)
 
 ![Anwendungsmenü (40.beta)](/images/post/bildschirmfoto-von-2021-02-13-18-06-47.png "Anwendungsmenü (40.beta)")
 
+Anwendungsmenü (40.beta)
+
 Jedoch wurden auch zusätzliche Änderungen eingeführt, wie die Arbeitsflächen-Vorschau über der Aktivitäten-Übersicht.
 
-Das Verhalten der Oberfläche soll sich allerdings auch ändern. So soll die Übersicht nun als standardmäßiger Zustand der erste Zustand nach dem Start sein.
+Schon nach dem Release von GNOME 3.36 wurden in einem [Artikel](https://blogs.gnome.org/shell-dev/2020/04/15/gnome-shell-ux-plans/) die Probleme von GNOME angesprochen. Unter anderem wurde erwähnt, dass der Desktop im Originalzustamd nach dem Start sich eher leer anfühlt und nicht wirklich nützlich ist.
+
+Daher wollen die Entwickler den Benutzern nur einen überflüssigen Schritt ersparen und die Übersicht nun als Startzustand einführen.
 
 Des weiteren gibt es auch kleine kosmetische Änderungen wie das Anzeigen des vollständigen Anwendungsnamen beim darüberwischen mit der Maus:
 
-![](/images/post/bildschirmfoto-von-2021-02-13-18-07-50.png)
-
-![](/images/post/bildschirmfoto-von-2021-02-13-18-07-57.png)
+> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-50.png)
+> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-57.png)
 
 oder eine Trennlinie zwischen Favoriten und aktiven Apps im Dash:
 
-![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
+> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
