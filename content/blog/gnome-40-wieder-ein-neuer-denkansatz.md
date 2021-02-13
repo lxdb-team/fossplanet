@@ -2,7 +2,7 @@
 title: "GNOME 40: (Wieder) ein neuer Denkansatz"
 date: 2021-02-04T08:37:20.899Z
 draft: false
-image: /images/post/0_1612196857.png
+image: /images/post/bildschirmfoto-von-2021-02-09-12-38-45.png
 description: Mit GNOME 40 stellen die GNOME-Entwickler wie gewohnt wieder mal
   alles auf den Kopf. Welche änderungen die Venutzer zu erwarten haben, klären
   wir hier.
@@ -19,8 +19,52 @@ tags:
   - Fedora33
   - COPR
 type: post
-post: true
+post: "true"
 ---
-Der Sprung auf die Version 40 ist längst nicht die einzige wichtige Änderung in  der nächsten GNOME Version. Unter anderem werden die Grundelemente derr Benutzeroberfläche grundlegend Verändert.  
-Doch zunächst erstmal zum Namen: ... 3.36, 3.38, 40 ? 
-Seit nun fast 10 Jahren
+Der Sprung auf die Version 40 ist längst nicht die einzige wichtige Änderung in der nächsten GNOM-Version. Unter anderem werden die Grundelemente der Benutzeroberfläche grundlegend verändert.
+
+Doch zunächst erstmal zum Namen 3.36, 3.38, 40?
+
+Seit nun fast 10 Jahren folg die Versionierung neuer GNOME-Releases dem Schema *3.XX*.
+
+Die nächste GNOME-Version wird jedoch nicht 3.40 sondern 40 als Versionsnummer mit sich führen.
+
+Dies geschieht unter anderem, um die Versionierung von GNOME und GTK voneinander zu trennen und dem Benutzer einen besseren Überblick über die verschiedenen Versionen zu bieten. Die nächsten Versionen werden ab diesem Jahr als 40.alpha, 40.beta, 40.0, 40.1, 41.alpha … Versioniert.
+
+Dennoch wurden in GNOME 40 viele Änderungen an der Benutzeroberfläche vorgenommen, die wir anschließend näher erläutern, welche dem Versionssprung gerecht werden.
+
+### [](https://pads.eigenbaukombinat.de/g40-fp?both#Die-Änderungen-in-GNOME-40 "Die-Änderungen-in-GNOME-40")Die Änderungen in GNOME 40
+
+Die zukünftigen Änderungen wurden in einem [Artikel](https://blogs.gnome.org/shell-dev/2020/12/18/gnome-shell-ux-plans-for-gnome-40/) am 18. Dezember 2020 im [GNOME Shell Entwicklungsblog](https://blogs.gnome.org/shell-dev/) zum ersten Mal vorgestellt.
+
+Dabei wurden auch folgende Mockups gezeigt:
+
+![Aktivitäten-Übersicht (Mockup)](/images/post/pan-windowpicker-768x478.png "Aktivitäten-Übersicht (Mockup)")
+
+Aktivitäten-Übersicht (Mockup)
+
+![Anwendungsmenü (Mockup)](/images/post/pan-appgrid-768x478.png "Anwendungsmenü (Mockup)")
+
+Anwendungsmen (Mockup)
+
+Bereits jetzt ist die Beta-Version des neuen GNOME Desktops verfügbar, in der die Änderungen zum großen Teil entsprechen den Mockups umgesetzt sind.
+
+![Aktivitäten-Übersicht (40.beta)](/images/post/bildschirmfoto-von-2021-02-13-18-06-14.png "Aktivitäten-Übersicht (40.beta)")
+
+Aktivitäten-Übersicht (40.beta)
+
+![Anwendungsmenü (40.beta)](/images/post/bildschirmfoto-von-2021-02-13-18-06-47.png "Anwendungsmenü (40.beta)")
+
+Jedoch wurden auch zusätzliche Änderungen eingeführt, wie die Arbeitsflächen-Vorschau über der Aktivitäten-Übersicht.
+
+Das Verhalten der Oberfläche soll sich allerdings auch ändern. So soll die Übersicht nun als standardmäßiger Zustand der erste Zustand nach dem Start sein.
+
+Des weiteren gibt es auch kleine kosmetische Änderungen wie das Anzeigen des vollständigen Anwendungsnamen beim darüberwischen mit der Maus:
+
+![](/images/post/bildschirmfoto-von-2021-02-13-18-07-50.png)
+
+![](/images/post/bildschirmfoto-von-2021-02-13-18-07-57.png)
+
+oder eine Trennlinie zwischen Favoriten und aktiven Apps im Dash:
+
+![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
