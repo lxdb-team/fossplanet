@@ -33,7 +33,7 @@ Dies geschieht unter anderem, um die Versionierung von GNOME und GTK voneinander
 
 Dennoch wurden in GNOME 40 viele Änderungen an der Benutzeroberfläche vorgenommen, die wir anschließend näher erläutern, welche dem Versionssprung gerecht werden.
 
-### Die Änderungen in GNOME 40
+## Das neue Designkonzept
 
 Die mit GNOME 3 wurde 2011 ein neues Arbeitsflächenkonzept eingeführt. Trotz viel Kritik haben die Entwickler daran festgehalten.
 
@@ -69,11 +69,20 @@ Schon nach dem Release von GNOME 3.36 wurden in einem [Artikel](https://blogs.gn
 
 Daher wollen die Entwickler den Benutzern nur einen überflüssigen Schritt ersparen und die Übersicht nun als Startzustand einführen.
 
-Des weiteren gibt es auch kleine kosmetische Änderungen wie das Anzeigen des vollständigen Anwendungsnamen beim darüberwischen mit der Maus:
+## Weitere Änderungen
 
-> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-50.png)
-> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-57.png)
+Des weiteren gibt es auch kleine kosmetische Änderungen
 
-oder eine Trennlinie zwischen Favoriten und aktiven Apps im Dash:
+* Anwendungsnamen werden beim Überfahren mit der Maus vollständig angezeigt
 
-> ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
+| Vorher                                                       | Nachher                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-50.png) | ![](/images/post/bildschirmfoto-von-2021-02-13-18-07-57.png) |
+
+* eine Trennlinie zwischen Favoriten und aktiven Apps im Dash
+
+![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
+
+* abgerundete Leistenbuttons
+
+![](/images/post/bildschirmfoto-von-2021-02-13-20-57-16.png)
