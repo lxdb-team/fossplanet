@@ -17,7 +17,7 @@ tags:
   - Flathub
   - LXtut
 type: post
-post: "true"
+post: true
 ---
  Du hast bestimmt schon mal etwas von Flatpak gehört. Wenn du zum Beispiel ein Programm für Linux herunterladen möchtest, gibt es auch die Möglichkeit das Programm als Flatpak über *Flathub* zu installieren.\
 In diesem Artikel geht es genau um Flatpaks: Wie du Flatpak installierst und einrichtest, sodass du deine gewünschten Anwendungen herunterladen kannst.
@@ -44,10 +44,10 @@ Anschließend solltest du dein System neu starten, um eventuelle Probleme zu ver
 
 Jetzt bist du bereit, die ersten Pakete zu installieren. Um etwas rumzustöbern, kannst du die [offizielle Seite](https://flathub.org) von Flathub im Browser aufrufen, sodass du eine Übersicht aller verfügbaren Flatpaks zum Installieren siehst, und gegebenenfalls nach einem bestimmten Programm suchen kannst.
 
-Wenn du das Passende Programm gefunden hast, 
+Wenn du das Passende Programm gefunden hast,
 kommst du erstmal auf die Übersichtsseite des Programms.
 
-Als Beispiel nehmen wir jetzt einmal das Open-World-Spiel Minetest. 
+Als Beispiel nehmen wir jetzt einmal das Open-World-Spiel Minetest.
 
 Es gibt zwei Wege ein Flatpak-Paket zu installieren.
 
