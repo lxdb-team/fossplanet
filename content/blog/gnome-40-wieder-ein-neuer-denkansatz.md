@@ -81,8 +81,38 @@ Des weiteren gibt es auch kleine kosmetische Änderungen
 
 * eine Trennlinie zwischen Favoriten und aktiven Apps im Dash
 
-![](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png)
+![Dash](/images/post/bildschirmfoto-von-2021-02-13-18-07-26.png "Dash")
 
 * abgerundete Leistenbuttons
 
-![](/images/post/bildschirmfoto-von-2021-02-13-20-57-16.png)
+![Abgerundeter Knopf](/images/post/bildschirmfoto-von-2021-02-13-20-57-16.png "Abgerundeter Knopf")
+
+## GNOME 40 ausprobieren
+
+Neugierig ? Schon jetzt kannst du GNOME 40 in Fedora 33 installieren.
+
+Dazu muss das [COPR-Repository von Felix Häcker](https://copr.fedorainfracloud.org/coprs/haeckerfelix/gnome-shell-40/) aktiviert werden.
+
+Dies machst du wie folgt:
+
+```
+sudo dnf copr enable haeckerfelix/gnome-shell-40
+sudo dnf upgrade
+```
+
+Falls du wieder zur ursprünglichen GNOME-Version zurückkehren möchstest, ist dies wie folgt möglich:
+
+```
+sudo dnf copr remove haeckerfelix/gnome-shell-40
+sudo dnf distro-sync
+```
+
+## Fazit
+
+Mit GNOME 40 wird wieder mal das Designkonzept des Desktops zu großen Teilen umgestaltet. Die Entwickler versuchen weiterhin, ein beseres Designkonzept zu erstellen.
+
+Wie sich dies genau auf die Benutzererfahrung auswirkt, wird sich in der Zukunft zeigen.
+
+Bestehende Nutzer werden sich wahrscheinlich ganz schnell and das neue Interface gewöhnen, es könnte aber auch mehr Nutzer anregen, zu GNOME zu wechseln.
+
+Doch eins bleibt gleich: das Konzept von GNOME war und bleibt einzigartig und wird noch manch eine Idee für einen modernen und produktiven Desktop vorstellen.
