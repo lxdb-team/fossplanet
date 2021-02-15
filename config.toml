@@ -151,11 +151,26 @@ icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/lxdb-team/fossplanet"
 
 [[params.social]]
-title = "Discord"
-icon = "fab fa-discord"
-link = "https://discord.gg/EW87g3qdgn"
+title = "Reddit"
+icon = "fab fa-reddit"
+link = "https://www.reddit.com/r/lxdb/collection/b37c1d18-6e14-4955-914c-72272ed7860c"
 
 [[params.social]]
 title = "Telegram"
 icon = "fab fa-telegram"
 link = "https://t.me/fossplanet"
+
+[[params.social]]
+title = "Matrix"
+icon = "cib-matrix"
+link = "https://matrix.to/#/+fossplanet:matrix.org"
+
+[[params.social]]
+title = "Flipboard"
+icon = "fab fa-flipboard"
+link = "https://flipboard.com/@fossplanet/foss-planet-ngdmpullz?from=share&utm_source=flipboard&utm_medium=curator_share"
+
+[[params.social]]
+title = "Google News"
+icon = "fas fa-newspaper"
+link = "https://news.google.com/publications/CAAqBwgKMOu2oQswg8G5Aw?oc=3&ceid=DE:de"

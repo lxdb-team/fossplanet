@@ -17,7 +17,6 @@ tags:
   - Qt
   - GTK
   - qt5ct
-  - ""
 type: post
 post: true
 ---
