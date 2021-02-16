@@ -55,8 +55,8 @@ Die Datenschutzerklärug beschreibt außerdem **wo** genau, die Daten untergebra
 
 Die Server stehen also in den USA, was ein Nachteil der Datensicherheit darstellen könnte. Bekanntlicherweise sind die Gesetze in punkto Datenschutz nicht all zu streng. Deshalb können gesammelte Daten leichter behandelt werden. 
 
-
 #### Alternativen
+Eine direkte, *datenschutzfreundliche* Alternative zu Discord gibt es leider nicht.
 
 #### Fazit
 Du siehst also, dass Discord sehr viele Daten über dich sammelt, und diese auch auswertet und weitergibt. Von dem Funktionsumfang ist Discord eine sehr gute Wahl, man sollte jedoch aus Datenschutzgründen eher etwas anderes zum chatten nutzen. Besonders wenn du Discord für private Angelegenheiten (wie das Austauschen des Wohnortes) verwendest, begibst du dich theoretisch in Gefahr. Allein die fehlende Ende-zu-Ende-Verschlüsselung, oder Verschlüsselung der Nachrichten auf den Servern, sollte ein klarer Grund dafür sein. 
