@@ -19,13 +19,15 @@ tags:
 type: post
 post: true
 ---
-»Dein Ort zum Reden« – mit diesem Slogan bewirbt Discord seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, führen dich zu Discord. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
+»Dein Ort zum Reden« – mit diesem Slogan bewirbt [Discord](https://discord.com/) seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, führen dich zu Discord. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
 Warum Discord aber vielleicht aus Datenschutzgründen keine gute Wahl für dich ist, und welche Alternativen es gibt, klären wir in diesem Artikel.
 ---
 ### Die Funktionsweise von Discord
 Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels erstellen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst. So kannst du deine eigene Community schnell gründen. Es gibt auch die Möglichkeit, mit anderen Usern **Privat** zu kommunizieren, diese Kommunikation läuft aber **ohne jeglicher Verschlüsselung**.
 Discord funktioniert am Ende wie anderen Messengern: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr. 
 Bei diesen ganzen Funktionen gibt es allerdings auch Nachteile.
+
+> Hinweis: Die Datenschutzerklärung von Discord wurde im **Februar 2021** abgerufen und in diesem Artikel näher erläutert.
 
 ### Die Datenschutzerklärung angeschaut
 Laut der [Datenschutzerklärung](https://discord.com/privacy), die erfreulicherweise auch in Deutsch verfügbar ist, sammelt Discord selbst erst einmal Informationen, die für die Basis notwendig sind. Dazu gehören beispielsweise Account-Informationen (Email-Adresse und Benutzername) und temporäre VoIP-Daten. Dazu schreibt Discord:
@@ -47,16 +49,17 @@ Jetzt wird es etwas spezieller: Zu den normalen Account-Informationen gehören n
 
 Hier wird also klargestellt, das Verhaltensweisen an anderen Geschäftspartnern geteilt werden. Ein ganzes Benutzerprofil wird also angelegt, wo deine Aktivitäten drin stehen. Besonders für Werbung ist dies sehr gut geeignet, um bestimmte »Vorlieben« offenzulegen.
 
-Die Datenschutzerklärug beschreibt außerdem **wo** genau, die Daten untergebracht werden, was ein wichtiges Indiz dafür ist, wie mit den Daten umgegangen wird, weil in vielen Ländnern unterschiedliche Gesetze herrschen. 
+Die Datenschutzerklärug beschreibt außerdem **wo** genau, die Daten untergebracht werden, was ein wichtiges Indiz dafür ist, wie mit den Daten umgegangen wird, weil in vielen Ländern unterschiedliche Gesetze herrschen. 
 
 > **Das Unternehmen hat seinen Sitz in den Vereinigten Staaten.** **Unabhängig von Ihrem Standort stimmen Sie der Verarbeitung und Weitergabe Ihrer Daten in den USA und anderen Ländern zu.** Die Datenschutzgesetze in den USA und in anderen Ländern können im Hinblick auf Sicherheit und Umfang von denen Ihres Landes abweichen.
 
-Die Server stehen also in den USA, was ein Nachteil der Datensicherheit darstellen könnte. Bekanntlicherweise sind die Gesetze in punkto Dat
+Die Server stehen also in den USA, was ein Nachteil der Datensicherheit darstellen könnte. Bekanntlicherweise sind die Gesetze in punkto Datenschutz nicht all zu streng. Deshalb können gesammelte Daten leichter behandelt werden. 
 
 
 #### Alternativen
 
 #### Fazit
+Du siehst also, dass Discord sehr viele Daten über dich sammelt, und diese auch auswertet und weitergibt. Von dem Funktionsumfang ist Discord eine sehr gute Wahl, man sollte jedoch aus Datenschutzgründen eher etwas anderes zum chatten nutzen. Besonders wenn du Discord für private Angelegenheiten (wie das Austauschen des Wohnortes) verwendest, begibst du dich theoretisch in Gefahr. Allein die fehlende Ende-zu-Ende-Verschlüsselung, oder Verschlüsselung der Nachrichten auf den Servern, sollte ein klarer Grund dafür sein. 
 
 ##### Quellen:
 [Datenschutzerklärung von Discord](https://discord.com/privacy)
