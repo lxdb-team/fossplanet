@@ -22,5 +22,8 @@ post: true
 »Dein Ort zum Reden« – mit diesem Slogan bewirbt Discord seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, führen dich zu Discord. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
 Warum Discord aber vielleicht aus Datenschutzgründen keine gute Wahl für dich ist, und welche Alternativen es gibt, klären wir in diesem Artikel.
 
-### Die funktionsweise von Discord
-Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels ersetllen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst.
+### Die Funktionsweise von Discord
+Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels erstellen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst. So kannst du deine eigene Community schnell gründen. Es gibt auch die Möglichkeit, mit anderen Usern **Privat** zu kommunizieren, diese Kommunikation läuft aber **ohne jeglicher Verschlüsselung**.
+Discord funktioniert am Ende wie anderen Messengern: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr. 
+Bei diesen ganzen Funktionen gibt es allerdings auch Nachteile.
+### Die Datenschutzerklärung angeschaut
