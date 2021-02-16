@@ -1,7 +1,11 @@
 ---
+draft: false
+post: true
+author: ODIRF und Denys Konovalov
 title: WhatsApp ändert seine Nutzungsbedingungen – Diese Alternativen gibt es
 date: 2021-01-10
-draft: false
+images:
+  - /images/post/überblick-messenger.jpg
 image: /images/post/überblick-messenger.jpg
 description: WhatsApp ändert seine Nutzungsbedingungen am 8. Februar. Unter
   anderem muss der Nutzer dem Datenaustausch mit Facebook zustimmen. Für viele
@@ -18,11 +22,7 @@ tags:
   - matrix
   - element
   - session
-post: true
-author: ODIRF und Denys Konovalov
-images:
-  - /images/post/überblick-messenger.jpg
-type: featured
+type: post
 ---
 WhatsApp ändert seine Nutzungsbedingungen am 8. Februar. Unter anderem muss der Nutzer dem Datenaustausch mit Facebook zustimmen. Für viele heißt es jetzt, einen neuen Messenger zu finden. Welche Alternativen es gibt, erfährst du in diesem Artikel.
 
