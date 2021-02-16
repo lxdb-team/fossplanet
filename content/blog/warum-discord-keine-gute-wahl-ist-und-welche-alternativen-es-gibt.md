@@ -42,8 +42,16 @@ Das bedeutet also, dass Discord *alle Nachrichten* (auch in den Privaten Chats) 
 Jetzt wird es etwas spezieller: Zu den normalen Account-Informationen gehören natürlich auch sogenannte »Metadaten«. Zu denen gehören IP-Adresse, welches Gerät du nutzt, wann du Discord nutzt usw. Diese Informationen werden von Discord gespeichert, und **an Drittanbiertern (Tochtergesellschaften, Agenturen und Dienstleistern weitergegeben**. Zusätzlich wird unter anderem erfasst und analysiert, wie viele Nachrichten du sendest. 
 
 #### Der Umgang bzw. Austausch von Daten
+Ähnlich wie bei Google, Twitter und co. werden die Daten an Drittanbietern geteilt, um ein »besseres Nutzererlebnis« zu bieten. In der Datenschutzerklärung steht:
+> **Gesammelte Informationen:** Um unsere Nutzer besser verstehen und unsere Dienste optimieren zu können, untersuchen wir auf der Grundlage der gesammelten Informationen demografische Daten, Interessen und Verhaltensweisen unserer Nutzer. Diese Ergebnisse können zusammengestellt und analysiert werden. Wir können diese gesammelten Daten mit unseren Tochtergesellschaften, Agenturen und Geschäftspartnern teilen. Wir können auch gesammelte Benutzerstatistiken offenlegen, um unsere Dienstleistungen aktuellen und potenziellen Geschäftspartnern zu präsentieren und sie anderen Dritten für andere rechtmäßige Zwecke zur Verfügung zu stellen.
 
+Hier wird also klargestellt, das Verhaltensweisen an anderen Geschäftspartnern geteilt werden. Ein ganzes Benutzerprofil wird also angelegt, wo deine Aktivitäten drin stehen. Besonders für Werbung ist dies sehr gut geeignet, um bestimmte »Vorlieben« offenzulegen.
 
+Die Datenschutzerklärug beschreibt außerdem **wo** genau, die Daten untergebracht werden, was ein wichtiges Indiz dafür ist, wie mit den Daten umgegangen wird, weil in vielen Ländnern unterschiedliche Gesetze herrschen. 
+
+> **Das Unternehmen hat seinen Sitz in den Vereinigten Staaten.** **Unabhängig von Ihrem Standort stimmen Sie der Verarbeitung und Weitergabe Ihrer Daten in den USA und anderen Ländern zu.** Die Datenschutzgesetze in den USA und in anderen Ländern können im Hinblick auf Sicherheit und Umfang von denen Ihres Landes abweichen.
+
+Die Server stehen also in den USA, was ein Nachteil der Datensicherheit darstellen könnte. Bekanntlicherweise sind die Gesetze in punkto Dat
 
 
 #### Alternativen
