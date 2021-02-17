@@ -3,6 +3,8 @@ title: "GNOME 40: (Wieder) ein neuer Denkansatz"
 date: 2021-02-14T20:33:02.672Z
 draft: false
 image: /images/post/bildschirmfoto-von-2021-02-09-12-38-45.png
+images:
+  - /images/post/bildschirmfoto-von-2021-02-09-12-38-45.png
 description: Mit GNOME 40 stellen die GNOME-Entwickler wie gewohnt wieder mal
   alles auf den Kopf. Welche änderungen die Benutzer zu erwarten haben, klären
   wir hier.

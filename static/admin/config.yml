@@ -29,6 +29,7 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Entwurf", name: "draft", widget: "boolean", default: false, required: false}
       - {label: "Bild", name: "image", widget: "image", default: "/media/image.png"}
+      - {label: "Bild (Karte)", name: "images", widget: "list"}
       - {label: "Metabeschreibung", name: "description", widget: "text", default: "", required: false}
       - {label: "Kategorien", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
