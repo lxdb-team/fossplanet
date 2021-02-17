@@ -1,6 +1,6 @@
 ---
 title: Warum Discord keine Gute Wahl ist, und welche Alternativen es gibt
-date: 2021-02-16T23:00:00.000Z
+date: 2021-02-17T19:12:32.021Z
 draft: false
 image: /images/post/bildschirmfoto-von-2021-02-15-11-09-03.png
 description: »Dein Ort zum Reden« – mit diesem Slogan bewirbt Discord seine
@@ -16,12 +16,11 @@ tags:
   - Messenger
   - Community
   - Privacy
-type: post
+type: featured
 post: true
 ---
 »Dein Ort zum Reden« – mit diesem Slogan bewirbt [Discord](https://discord.com/) seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, bietet Discord seinen Benutzern. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
 Warum Discord aber vielleicht aus Datenschutzgründen keine gute Wahl für dich ist, und welche Alternativen es gibt, klären wir in diesem Artikel.
----
 ### Die Funktionsweise von Discord
 Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels erstellen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst. Es gibt auch die Möglichkeit, mit anderen Usern **Privat** zu kommunizieren, diese Kommunikation läuft aber **ohne jeglicher Verschlüsselung**.
 Discord funktioniert am Ende wie andere Messenger: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr. 
