@@ -73,6 +73,7 @@ Installation von der Flatpak Version von Minetest, im Terminal.
 
 `flatpak`  - Der globale Befehl, womit du Flatpaks verwalten kannst.\
 `install`  - Die Option, dass du etwas installieren möchtest.\
+`flathub`  - Das Repository, aus dem die Software installiert wird. 
 `minetest` - Der Name der Anwendung, die du installieren möchtest.
 
 Als Nächstes wirst du gefragt, ob du Minetest nur für dich als User installieren möchtest, oder systemweit. Letztendlich ist es egal, was du auswählst. Wenn du aber „User“ auswählst, und mehrere Benutzer auf deinem Computer eingestellt hast, wird das Flatpak nur auf dem Benutzer verfügbar sein, wo du den Befehl ausführst.\
