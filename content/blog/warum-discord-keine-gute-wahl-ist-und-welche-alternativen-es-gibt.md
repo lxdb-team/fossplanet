@@ -1,6 +1,6 @@
 ---
 title: Warum Discord keine Gute Wahl ist, und welche Alternativen es gibt
-date: 2021-02-16T23:00:00.000Z
+date: 2021-02-17T19:12:32.021Z
 draft: false
 image: /images/post/bildschirmfoto-von-2021-02-15-11-09-03.png
 description: »Dein Ort zum Reden« – mit diesem Slogan bewirbt Discord seine
