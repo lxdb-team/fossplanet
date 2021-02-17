@@ -1,7 +1,7 @@
 ---
-title: " LXtut #2: Flatpak für Anfänger"
-date: 2021-02-08T10:02:58.354Z
-draft: true
+title: Flatpak für Anfänger
+date: 2021-02-17T19:06:41.418Z
+draft: false
 image: /images/post/banner-816x423.png
 description: >-
   Du hast bestimmt schon mal etwas von Flatpak gehört. Wenn du zum Beispiel ein
@@ -73,6 +73,7 @@ Installation von der Flatpak Version von Minetest, im Terminal.
 
 `flatpak`  - Der globale Befehl, womit du Flatpaks verwalten kannst.\
 `install`  - Die Option, dass du etwas installieren möchtest.\
+`flathub`  - Das Repository, aus dem die Software installiert wird. 
 `minetest` - Der Name der Anwendung, die du installieren möchtest.
 
 Als Nächstes wirst du gefragt, ob du Minetest nur für dich als User installieren möchtest, oder systemweit. Letztendlich ist es egal, was du auswählst. Wenn du aber „User“ auswählst, und mehrere Benutzer auf deinem Computer eingestellt hast, wird das Flatpak nur auf dem Benutzer verfügbar sein, wo du den Befehl ausführst.\
