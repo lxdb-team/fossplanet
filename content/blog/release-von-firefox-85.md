@@ -24,7 +24,7 @@ tags:
   - Supercookies
   - Lockwise
   - Proton
-type: featured
+type: post
 ---
 Bild: © Mozilla
 
