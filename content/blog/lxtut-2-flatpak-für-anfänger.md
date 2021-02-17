@@ -1,7 +1,7 @@
 ---
-title: " LXtut #2: Flatpak für Anfänger"
-date: 2021-02-08T10:02:58.354Z
-draft: true
+title: Flatpak für Anfänger
+date: 2021-02-17T19:06:41.418Z
+draft: false
 image: /images/post/banner-816x423.png
 description: >-
   Du hast bestimmt schon mal etwas von Flatpak gehört. Wenn du zum Beispiel ein
