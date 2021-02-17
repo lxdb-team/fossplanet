@@ -28,7 +28,7 @@ Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebig
 Discord funktioniert am Ende wie andere Messenger: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr.
 Bei diesen ganzen Funktionen gibt es allerdings auch Nachteile.
 
-> Hinweis: Die Datenschutzerklärung von Discord wurde im **Februar 2021** abgerufen und in wird diesem Artikel näher erläutert.
+> <u>**Hinweis:**</u> Die Datenschutzerklärung von Discord wurde im **Februar 2021** abgerufen und wird in diesem Artikel näher erläutert.
 
 ### Die Datenschutzerklärung angeschaut
 Laut der [Datenschutzerklärung](https://discord.com/privacy), die erfreulicherweise auch in Deutsch verfügbar ist, sammelt Discord selbst erst einmal Informationen, die für die Basis notwendig sind. Dazu gehören beispielsweise Account-Informationen (Email-Adresse und Benutzername) und temporäre VoIP-Daten. Dazu schreibt Discord:
