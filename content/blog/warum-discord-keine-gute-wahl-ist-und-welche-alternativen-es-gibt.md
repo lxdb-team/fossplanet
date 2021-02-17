@@ -1,6 +1,6 @@
 ---
 title: Warum Discord keine Gute Wahl ist, und welche Alternativen es gibt
-date: 2021-02-15T10:07:03.934Z
+date: 2021-02-16T23:00:00.000Z
 draft: true
 image: /images/post/bildschirmfoto-von-2021-02-15-11-09-03.png
 description: »Dein Ort zum Reden« – mit diesem Slogan bewirbt Discord seine
@@ -19,15 +19,15 @@ tags:
 type: post
 post: true
 ---
-»Dein Ort zum Reden« – mit diesem Slogan bewirbt [Discord](https://discord.com/) seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, führen dich zu Discord. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
+»Dein Ort zum Reden« – mit diesem Slogan bewirbt [Discord](https://discord.com/) seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, bietet Discord seinen Benutzern. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen. 
 Warum Discord aber vielleicht aus Datenschutzgründen keine gute Wahl für dich ist, und welche Alternativen es gibt, klären wir in diesem Artikel.
 ---
 ### Die Funktionsweise von Discord
-Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels erstellen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst. So kannst du deine eigene Community schnell gründen. Es gibt auch die Möglichkeit, mit anderen Usern **Privat** zu kommunizieren, diese Kommunikation läuft aber **ohne jeglicher Verschlüsselung**.
-Discord funktioniert am Ende wie anderen Messengern: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr. 
+Discord funktioniert sehr einfach: Du erstellst einen Server und kannst beliebige Channels erstellen. Das besondere daran ist, das du mithilfe der Berechtigungen sehr viel konfigurieren kannst. Es gibt auch die Möglichkeit, mit anderen Usern **Privat** zu kommunizieren, diese Kommunikation läuft aber **ohne jeglicher Verschlüsselung**.
+Discord funktioniert am Ende wie andere Messenger: Du kannst Nachrichten/Beiträge absenden, editieren und vieles mehr. 
 Bei diesen ganzen Funktionen gibt es allerdings auch Nachteile.
 
-> Hinweis: Die Datenschutzerklärung von Discord wurde im **Februar 2021** abgerufen und in diesem Artikel näher erläutert.
+> Hinweis: Die Datenschutzerklärung von Discord wurde im **Februar 2021** abgerufen und in wird diesem Artikel näher erläutert.
 
 ### Die Datenschutzerklärung angeschaut
 Laut der [Datenschutzerklärung](https://discord.com/privacy), die erfreulicherweise auch in Deutsch verfügbar ist, sammelt Discord selbst erst einmal Informationen, die für die Basis notwendig sind. Dazu gehören beispielsweise Account-Informationen (Email-Adresse und Benutzername) und temporäre VoIP-Daten. Dazu schreibt Discord:
