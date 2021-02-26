@@ -27,7 +27,20 @@ Bevor man zu anderen Suchmaschinen wechselt, sollte man verstehen, was das eigen
 #### Die Alternativen
 
 ##### 1. DuckDuckGo
-...
+DuckDuckgo ist wohl die bekannteste Suchmaschine, wenn es um Datenschutz geht. Es gibt viele praktische Features, wie !bangs, und vielen Sofortantworten (wie zum Beispiel das Generieren eines Passwortes). DuckDuckgo bezeichnet sich selber, als eine Meta-Suchmaschine, was bedeutet, dass die Ergebnisse von vielen unterschiedlichen Quellen genommen wurden. DuckDuckGo bietet aber auch einen eigenen Crawler. 
+
+**Vorteile von DuckDuckGo:**
+- Datenschutzfreundlich
+- Viele Features
+- Bangs
+- Viele Quellen
+
+**Nachteile von DuckDuckGo:**
+- Server hauptsächlich in den USA
+- Teilweise suboptimale Suchergebnisse
+- Seite lädt langsamer als Google und co.
+
+ 
 
 ##### 2.
 ...
