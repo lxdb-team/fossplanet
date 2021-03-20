@@ -24,7 +24,11 @@ Google ist glücklicherweise nicht die einzige Suchmaschine auf dem Markt. Es gi
 
 #### Das Problem von Google
 
-Bevor man zu anderen Suchmaschinen wechselt, sollte man verstehen, was das eigentliche Problem an Google ist. Das ist aber leicht zu erklären: Google trackt dich, speichert deinen Suchverlauf, zeigt personalisierte Werbung an, und sendet deine Vorlieben als Profil an Drittanbietern bzw. Werbeagenturen. Vielen gefällt das nicht, und das aus gutem Grund. Anonymität ist ein wichtiges Thema, und eine Suchmaschine, mit der man täglich das Web durchsucht, sollte diese Anonymität auch unterstützen.
+Bevor man zu anderen Suchmaschinen wechselt, sollte man verstehen, was das eigentliche Problem an Google ist. Das ist aber leicht zu erklären: Google trackt dich, speichert deinen Suchverlauf, zeigt personalisierte Werbung an, und sendet deine Vorlieben als Profil an Drittanbietern bzw. Werbeagenturen. Vielen gefällt das nicht, und das aus gutem Grund. 
+
+Doch dies hat auch eine andere negative Seite: Durch die Datensammlung bietet Google personalisierte Suchergebnisse. Das bedeutet dass die Suchergebnisse **nicht neutral** für alle Nutzer sind, sondern von Google an dich persönlich angepasst werden. Damit bestimmt Google für jeden einzeln, welche Ergebnisse genau für dich am relevantesten sind.
+
+Anonymität ist ein wichtiges Thema, und eine Suchmaschine, mit der man täglich das Web durchsucht, sollte diese Anonymität auch unterstützen.
 
 ## Die Alternativen
 
@@ -45,35 +49,32 @@ DuckDuckgo ist wohl die bekannteste Suchmaschine, wenn es um Datenschutz geht. E
 
 * Server hauptsächlich in den USA
 * Teilweise suboptimale Suchergebnisse
-* Seite lädt langsamer als Google und co.
+* nutzung von Apple Karten
 
 #### 2. Qwant
 
 ![Qwant](/images/post/bildschirmfoto-von-2021-03-19-10-52-08.png "Die Startseite von Qwant")
 
-Eine weitere Alternative ist die europäisch Suchmaschine namens Qwant. Ähnlich wie DuckDuckGo nutzt Qwant vor allem seine Suchergebnisse von Bing. ....
+Eine weitere Alternative ist die europäisch Suchmaschine namens Qwant. Diese Suchmschiene verwendet nicht die Suchergebnisse aus anderen Suchmaschienen sondern setzt auf einen eigenen Crawler, weswegen die Suchergebnisse oft weniger Seiten enthalten, als bei anderen Suchmaschienen.
 
 **Vorteile**
 
 * Serverstandort in Europa
 * einfache Nutzeroberfläche
 * schnelle Ladezeiten
+* eigene Kindersuchmaschine
+* eigener Kartendienst auf OpenStreatMap-Basis
 
 **Nachteile**
+
 * Sehr lange Ladezeit bei Telekom-Nutzern¹
 * Ergebnisse teilweise etwas eingeschränkt
 
-¹ [https://www.reddit.com/r/Qwant_se/comments/llwvmu/are_there_still_people_working_at_qwant/gnswbtz]()
-
-
-
-
+¹ [https://www.reddit.com/r/Qwant_se/comments/llwvmu/are_there_still_people_working_at_qwant/gnswbtz](<>)
 
 ##### 3. Startpage
 
-
-
-##### 4. 
+##### 4.
 
 ...
 
