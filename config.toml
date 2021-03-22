@@ -146,6 +146,11 @@ icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/fossplanet"
 
 [[params.social]]
+title = "Mastodon"
+icon = "fab fa-mastodon" # themify icon : https://themify.me/themify-icons
+link = "https://chaos.social/@fossplanet"
+
+[[params.social]]
 title = "GitHub"
 icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/lxdb-team/fossplanet"
