@@ -1,7 +1,7 @@
 ---
 title: "qt5ct: Gtk-Thema in Qt-Anwendungen verwenden"
 date: 2021-02-07T10:54:19.335Z
-draft: false
+draft: true
 image: /images/post/qt5ct.png
 images:
   - /images/post/qt5ct.png
