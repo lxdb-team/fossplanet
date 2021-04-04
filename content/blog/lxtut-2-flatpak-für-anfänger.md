@@ -1,7 +1,7 @@
 ---
 title: Flatpak für Anfänger
 date: 2021-02-17T19:06:41.418Z
-draft: false
+draft: true
 image: /images/post/banner-816x423.png
 images:
   - /images/post/banner-816x423.png
