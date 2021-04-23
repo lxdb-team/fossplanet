@@ -94,6 +94,6 @@ Password Safe kann aus dem [Flathub-Repository](https://flathub.org/apps/details
 
 ## Fazit
 
-Das waren 5 von den bisher insgesamt 26 Apps des GNOME Circle. Welche von diesen benutzt Du? Lass es uns gerne in den Kommentaren oder über die [GNU/Linux.ch-Community](https://gnulinux.ch/kontakt) wissen!
+Das waren 5 von den bisher insgesamt 26 Apps des GNOME Circle. Welche von diesen benutzt Du? Lass es uns gerne in den Kommentaren, über unsere Kommunikationskanäle oder über die [GNU/Linux.ch-Community](https://gnulinux.ch/kontakt) wissen!
 
 > Quelle: <https://circle.gnome.org> und die Flathub-Anwendungsseiten der einzelnen Anwendungen
