@@ -18,7 +18,7 @@ tags:
   - Messenger
   - Community
   - Privacy
-type: featured
+type: post
 post: true
 ---
 »Dein Ort zum Reden« – mit diesem Slogan bewirbt [Discord](https://discord.com/) seine vielseitige Chat-Applikation. Viele Vorteile und Funktionen, bis hin zu Bots, bietet Discord seinen Benutzern. So kannst du deine eigene Community, in Form eines *Servers* schnell gründen.
