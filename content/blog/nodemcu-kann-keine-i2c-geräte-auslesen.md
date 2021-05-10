@@ -14,7 +14,7 @@ Bei mir tat sich dieses Problem auf, als ich versucht hatte, einen BME 280 Senso
 
 ### Lösungsversuch 1
 
-Manchmal kann es sein, dass man einfach nur eine falsche Adresse angegeben hat. Alles, was hier also von Nöten ist, ist die Adresse im Sketch anzupassen. Der folgende Sketch von der Seite [Funduino](https://www.funduino.de) bietet Ihnen die Möglichkeit, die Adresse des I2C Gerätes auszulesen.
+Manchmal kann es sein, dass man einfach nur eine falsche Adresse angegeben hat. Alles, was hier also vonnöten ist, ist die Adresse im Sketch anzupassen. Der folgende Sketch von der Seite [Funduino](https://www.funduino.de) bietet Ihnen die Möglichkeit, die Adresse des I2C Gerätes auszulesen.
 
 ```cpp
 // I2C Scanner
@@ -53,16 +53,15 @@ Serial.println (" device(s).");
 void loop() {}
 ```
 
-Wenn sie die Adresse ausgelesen haben, dann sollte der Serielle Monitor etwa so aussehen:
+Wenn sie die Adresse ausgelesen haben, dann sollte der serielle Monitor etwa so aussehen:
 
 ![](/images/post/serieller-monitor.png)
 
-Die Adresse des BME 280 ist also 0x76. Diese Adresse kann auch unterschiedlich sein, da man sie am Sensor selbst einstellen kann. Wie und wo das geht finden sie auf "Last Minute Engineers"
-
+Die Adresse des BME 280 ist also 0x76. Diese Adresse kann auch unterschiedlich sein, da man sie am Sensor selbst einstellen kann. Wie und wo das geht finden sie auf "Last Minute Engineers".
 
 #### In der Bibliothek
 
-Für den BME 280 benutze ich die Adafruit BME 280 Library, bei der in diesem Fall das Problem liegt. Wenn man nämlich wie ich einen BME 280 hat, bei dem die Adresse 0x76 ist, dann wird eine Zeile der Bibliothek zum Problem. In dem Arduino-Ordner unter /libraries/Adafruit_BME280_Library sollte die Datei Adafruit_BME280.h liegen. Wie auf dem Bild unten zu sehen, ist dort eine Zeile (33), in der normaler Weise "#define BME280_ADDRESS (0x77)" steht. Darunter wird die alternative Adresse angegeben (Zeile 37).
+Für den BME 280 benutze ich die Adafruit BME 280 Library, bei der in diesem Fall das Problem liegt. Wenn man nämlich wie ich einen BME 280 hat, bei dem die Adresse 0x76 ist, dann wird eine Zeile der Bibliothek zum Problem. In dem Arduino-Ordner unter /libraries/Adafruit_BME280_Library sollte die Datei Adafruit_BME280.h liegen. Wie auf dem Bild unten zu sehen, ist dort eine Zeile (33), in der normalerweise "#define BME280_ADDRESS (0x77)" steht. Darunter wird die alternative Adresse angegeben (Zeile 37).
 
 ![](/images/post/adressen.png)
 
