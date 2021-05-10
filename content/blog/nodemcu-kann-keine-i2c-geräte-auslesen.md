@@ -1,7 +1,7 @@
 ---
-title: NodeMCU kann keine I2C-Geräte auslesen
+title: NodeMCU kann keine I2C-Sensoren auslesen
 date: 2021-05-10T06:34:44.682Z
-draft: false
+draft: true
 image: /images/post/20210510_083126.jpg
 description: Probleme mit I2C-Geräten am NodeMCU? Dieser Artikel sollte helfen.
 categories:
