@@ -3,6 +3,8 @@ title: "LXtut: NodeMCU kann keine I2C-Sensoren auslesen"
 date: 2021-05-10T06:34:44.682Z
 draft: true
 image: /images/post/20210510_083126.jpg
+images:
+  - /images/post/20210510_083126.jpg
 description: Probleme mit I2C-Geräten am NodeMCU? Dieser Artikel sollte helfen.
 categories:
   - Arduino
@@ -10,7 +12,7 @@ categories:
 tags:
   - Fehlerbehebung
   - Arduino
-type: featured
+type: post
 post: true
 ---
 Bei mir tat sich dieses Problem auf, als ich versucht hatte, einen BME 280 Sensor über den NodeMCU auszulesen. Mögliche Fehlerquellen, wie Verkabelung, Fehlfunktion, oder fehlende Elemente beim Aufbau werden in diesem Artikel nicht berücksichtigt. Wenn Sie ihren Aufbau also schon mindestens zehnmal überprüft haben, dann sollten sie das Folgende lesen.
