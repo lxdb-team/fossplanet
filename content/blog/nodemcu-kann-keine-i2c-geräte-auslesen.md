@@ -6,7 +6,10 @@ image: /images/post/20210510_083126.jpg
 description: Probleme mit I2C-Geräten am NodeMCU? Dieser Artikel sollte helfen.
 categories:
   - Arduino
-tags: []
+  - LXtut
+tags:
+  - Fehlerbehebung
+  - Arduino
 type: featured
 post: true
 ---
