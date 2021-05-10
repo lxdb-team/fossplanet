@@ -1,10 +1,8 @@
 ---
 title: NodeMCU kann keine I2C-Geräte auslesen
-date: 2021-05-10T13:55:34.843Z
+date: 2021-05-10T06:34:44.682Z
 draft: true
 image: /images/post/20210510_083126.jpg
-images:
-  - /images/post/20210510_083126.jpg
 description: Probleme mit I2C-Geräten am NodeMCU? Dieser Artikel sollte helfen.
 categories:
   - Arduino
@@ -14,7 +12,7 @@ post: true
 ---
 Bei mir tat sich dieses Problem auf, als ich versucht hatte, einen BME 280 Sensor über den NodeMCU auszulesen. Mögliche Fehlerquellen, wie Verkabelung, Fehlfunktion, oder fehlende Elemente beim Aufbau werden in diesem Artikel nicht berücksichtigt. Wenn Sie ihren Aufbau also schon mindestens zehnmal überprüft haben, dann sollten sie das Folgende lesen.
 
-### Lösungsversuch 1
+### Lösungsversuch - die falsche Adresse entfernen
 
 Manchmal kann es sein, dass man einfach nur eine falsche Adresse angegeben hat. Alles, was hier also vonnöten ist, ist die Adresse im Sketch anzupassen. Der folgende Sketch von der Seite [Funduino](https://www.funduino.de) bietet Ihnen die Möglichkeit, die Adresse des I2C Gerätes auszulesen.
 
@@ -59,7 +57,7 @@ Wenn sie die Adresse ausgelesen haben, dann sollte der serielle Monitor etwa so 
 
 ![](/images/post/serieller-monitor.png)
 
-Die Adresse des BME 280 ist also 0x76. Diese Adresse kann auch unterschiedlich sein, da man sie am Sensor selbst einstellen kann. Wie und wo das geht finden sie auf ["Last Minute Engineers"](https://lastminuteengineers.com/bme280-arduino-tutorial/).
+Die Adresse des BME 280 ist also 0x76. Diese Adresse kann auch unterschiedlich sein, da man sie am Sensor selbst einstellen kann. Wie und wo das geht finden Sie auf ["Last Minute Engineers"](https://lastminuteengineers.com/bme280-arduino-tutorial/).
 
 #### In der Bibliothek
 
