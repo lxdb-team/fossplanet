@@ -7,7 +7,7 @@ description: Probleme mit I2C-Geräten am NodeMCU? Dieser Artikel sollte helfen.
 categories:
   - Arduino
 tags: []
-type: featured
+type: post
 post: true
 ---
 Bei mir tat sich dieses Problem auf, als ich versucht hatte, einen BME 280 Sensor über den NodeMCU auszulesen. Mögliche Fehlerquellen, wie Verkabelung, Fehlfunktion, oder fehlende Elemente beim Aufbau werden in diesem Artikel nicht berücksichtigt. Wenn Sie ihren Aufbau also schon mindestens zehnmal überprüft haben, dann sollten sie das Folgende lesen.
