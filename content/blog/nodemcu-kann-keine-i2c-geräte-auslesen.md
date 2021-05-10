@@ -51,6 +51,21 @@ Serial.print (count, DEC);
 Serial.println (" device(s).");
 } // end of setup
 void loop() {}
-
-
 ```
+
+Wenn sie die Adresse ausgelesen haben, dann sollte der Serielle Monitor etwa so aussehen:
+
+![](/images/post/serieller-monitor.png)
+
+Die Adresse des BME 280 ist also 0x76. Diese Adresse kann auch unterschiedlich sein, da man sie am Sensor selbst einstellen kann. Wie und wo das geht finden sie auf "Last Minute Engineers"
+
+
+#### In der Bibliothek
+
+Für den BME 280 benutze ich die Adafruit BME 280 Library, bei der in diesem Fall das Problem liegt. Wenn man nämlich wie ich einen BME 280 hat, bei dem die Adresse 0x76 ist, dann wird eine Zeile der Bibliothek zum Problem. In dem Arduino-Ordner unter /libraries/Adafruit_BME280_Library sollte die Datei Adafruit_BME280.h liegen. Wie auf dem Bild unten zu sehen, ist dort eine Zeile (33), in der normaler Weise "#define BME280_ADDRESS (0x77)" steht. Darunter wird die alternative Adresse angegeben (Zeile 37).
+
+![](/images/post/adressen.png)
+
+Wenn Sie nun die Adresse (Zeile 33) durch die Adresse Ihres Sensors ersetzen, dann sollte das Problem behoben sein. Da ich einen BME 280 mit der Adresse 0x76 besitze, habe ich die Werte einfach nur vertauscht. Ab dort gab es für mich keine Probleme mehr.
+
+Wenn es bei Ihnen funktioniert hat, Sie weitere Fragen, oder Probleme haben, dann lassen Sie es uns in den Kommentaren, oder das Kontaktformular wissen.
