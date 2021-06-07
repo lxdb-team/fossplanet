@@ -13,7 +13,7 @@ categories:
 tags:
   - FOSS Planet
   - GNU/Linux.ch
-type: post
+type: featured
 post: true
 ---
 Im Januar 2021 haben wir das Projekt FOSS Planet gestartet, um mehr Leute über Neuerungen in der OpenSource-Welt und interessante OpenSource-Software zu informieren. 
