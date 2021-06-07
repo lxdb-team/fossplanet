@@ -17,7 +17,7 @@ tags:
   - Shortwave
   - Password Safe
   - ""
-type: featured
+type: post
 post: true
 ---
 Mit [GNOME Circle](https://circle.gnome.org) fördert die GNOME-Foundation die Entwicklung von nützlichen Anwendungen und Tools für den Alltag eines GNOME-Nutzers. Diese Initiative wurde vorher bereits in einem [Artikel](https://gnulinux.ch/gnome-circle-fuer-entwickler) auf GNU/Linux.ch erläutert.
